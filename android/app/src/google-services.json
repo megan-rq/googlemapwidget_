@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632905433081",
+    "project_id": "capable-code-271310",
+    "storage_bucket": "capable-code-271310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632905433081:android:03e98ed94ab8d233664728",
+        "android_client_info": {
+          "package_name": "com.example.googlemapwidget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632905433081-hfjtjssq6si896sgulv73hnehbc0ti46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvt8mAciQa9nHWSoaxLBO4DBx9crtPzUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632905433081-hfjtjssq6si896sgulv73hnehbc0ti46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

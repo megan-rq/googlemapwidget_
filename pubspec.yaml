@@ -1,0 +1,47 @@
+name: googlemapwidget
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  rxdart: ^0.27.0
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  flutter_polyline_points: ^0.2.6
+  google_maps_flutter: ^2.0.2
+  location: ^2.3.5
+  geolocator: ^7.6.0
+  geocoding: ^2.0.1
+  geoflutterfire: ^3.0.1
+  cloud_firestore: ^2.3.0
+  permission_handler: ^8.1.4+2
+  firebase_core: ^1.5.0
+  
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  assets:
+    - assets/origin.png
+    - assets/destination.png
+    - assets/user.png
+    - assets/emergency.png
+
+  
